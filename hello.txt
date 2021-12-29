@@ -4,6 +4,10 @@ mobile development
 network
 microcontrollerr
 artificial intelligence
+
+user interface
+user experience
+
 machine learning
 desktop development
 cyber security
