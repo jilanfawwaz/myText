@@ -3,3 +3,5 @@ web development
 mobile development
 network
 microcontrollerr
+artificial intelligence
+machine learning
