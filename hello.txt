@@ -5,3 +5,5 @@ network
 microcontrollerr
 artificial intelligence
 machine learning
+desktop development
+cyber security
