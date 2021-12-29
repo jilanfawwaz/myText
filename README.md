@@ -1,2 +1,2 @@
 # myText
-trying git 
+trying git just for learn
